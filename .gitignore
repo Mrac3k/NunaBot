@@ -1,0 +1,15 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Google credentials - contains sensitive keys
+credentials.json
+
+# Environment variable files
+.env
+
+# Logs
+*.log
+
+# VS Code settings
+.vscode/
